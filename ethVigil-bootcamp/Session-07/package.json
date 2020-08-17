@@ -1,0 +1,17 @@
+{
+  "name": "session-07",
+  "version": "1.0.0",
+  "description": "Session-07 code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keshav",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "ethers": "^4.0.0",
+    "web3": "^1.2.9",
+    "ws": "^7.3.0"
+  }
+}
